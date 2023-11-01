@@ -1,6 +1,8 @@
 # OpenLearningHour
 
-**When:** Wednesdays 9am MST  [Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTFjMzcwYTdhMjcyNzk0YmNjYzVmMmMzY2I2MjMwMjlhZmNlZWVjNGFhZWM1M2MzMzkzZGFjZjJiMjgyZmUwN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+**When:** Wednesdays 9am MST ([Convert to local time](https://dateful.com/convert/mst-mdt-mountain-time?t=9am))
+
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTFjMzcwYTdhMjcyNzk0YmNjYzVmMmMzY2I2MjMwMjlhZmNlZWVjNGFhZWM1M2MzMzkzZGFjZjJiMjgyZmUwN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 
 **Where:** [Zoom](https://us02web.zoom.us/j/85186614272?pwd=RGxXNytHWGJNeTZLZ3kyOFhtdml1UT09) 
 
