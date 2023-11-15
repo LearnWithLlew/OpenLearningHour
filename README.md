@@ -8,6 +8,10 @@
 
 ## Next
 
+### Wednesday Nov 29th, 2023
+3 Parts of a Test  
+[YouTube]([https://www.youtube.com/watch?v=Wa49D-akQb8](https://www.youtube.com/watch?v=8KB5aF6QXe8))
+
 ### Wednesday Nov 15th, 2023
 Law of Demeter  
 [YouTube](https://www.youtube.com/watch?v=Wa49D-akQb8)
