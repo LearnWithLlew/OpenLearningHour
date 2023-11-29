@@ -13,11 +13,13 @@ TDD: What it is & Why you Should Care
 [YouTube](https://www.youtube.com/watch?v=OhT0_Xg-vZU)
 
 
+------------------
+## Past Events
+
 ### Wednesday Nov 29th, 2023
 3 Parts of a Test  
 [YouTube](https://www.youtube.com/watch?v=8KB5aF6QXe8)
 
-## Past Events
 
 ### Wednesday Nov 15th, 2023
 Law of Demeter  
