@@ -11,13 +11,12 @@
 Using a Test Double to Find Bugs  
 [YouTube](https://www.youtube.com/watch?v=rFtYJtbAb_g)
 
+------------------
+## Past Events
+
 ### Wednesday Jan 10th, 2024
 TDD: What it is & Why you Should Care   
 [YouTube](https://www.youtube.com/watch?v=OhT0_Xg-vZU)
-
-
-------------------
-## Past Events
 
 ### Wednesday Nov 29th, 2023
 3 Parts of a Test  
