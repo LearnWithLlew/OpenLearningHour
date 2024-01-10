@@ -7,6 +7,9 @@
 **Where:** [Zoom](https://us02web.zoom.us/j/85186614272?pwd=RGxXNytHWGJNeTZLZ3kyOFhtdml1UT09) 
 
 ## Next
+### Wednesday Jan 24th, 2024
+Using a Test Double to Find Bugs
+[YouTube](https://www.youtube.com/watch?v=rFtYJtbAb_g)
 
 ### Wednesday Jan 10th, 2024
 TDD: What it is & Why you Should Care   
