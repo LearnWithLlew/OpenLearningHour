@@ -8,7 +8,7 @@
 
 ## Next
 ### Wednesday Jan 24th, 2024
-Using a Test Double to Find Bugs
+Using a Test Double to Find Bugs  
 [YouTube](https://www.youtube.com/watch?v=rFtYJtbAb_g)
 
 ### Wednesday Jan 10th, 2024
