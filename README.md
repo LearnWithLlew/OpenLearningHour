@@ -7,6 +7,11 @@
 **Where:** [Zoom](https://us02web.zoom.us/j/85186614272?pwd=RGxXNytHWGJNeTZLZ3kyOFhtdml1UT09) 
 
 ## Next
+### Wednesday Feb 7th, 2024
+Refactoring Skills: Extract Function  
+[YouTube](https://www.youtube.com/watch?v=lOAktlPd8uk)
+
+
 ### Wednesday Jan 24th, 2024
 Using a Test Double to Find Bugs  
 [YouTube](https://www.youtube.com/watch?v=rFtYJtbAb_g)
