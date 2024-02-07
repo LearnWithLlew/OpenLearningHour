@@ -9,8 +9,8 @@
 ## Pre-call checklist
 
 The following will improve your experience but are not required:
-1. **Headset:** You will be working in pair, a good audio/video setup is helpful
-1. **Setup Kata:** Even better is to clone the repo and run the tests 
+1. [ ] **Headset:** You will be working in pair, a good audio/video setup is helpful
+1. [ ] **Setup Kata:** Even better is to clone the repo and run the tests 
 
 
 ## Next
