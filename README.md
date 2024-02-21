@@ -17,7 +17,7 @@ The following will improve your experience but are not required:
 ### Wednesday March 6, 2024
 Incremental Development
 with guest Facilitator [Jay Bazuzi](https://jay.bazuzi.com/)  
-[YouTube]([https://www.youtube.com/watch?v=4xNPMbV4J4w](https://www.youtube.com/watch?v=5BftptSNrAg))  
+[YouTube](https://www.youtube.com/watch?v=5BftptSNrAg)  
 **Kata:** 
 
 
