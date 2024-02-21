@@ -14,15 +14,22 @@ The following will improve your experience but are not required:
 
 
 ## Next
+### Wednesday March 6, 2024
+Incremental Development
+with guest Facilitator [Jay Bazuzi](https://jay.bazuzi.com/)  
+[YouTube]([https://www.youtube.com/watch?v=4xNPMbV4J4w](https://www.youtube.com/watch?v=5BftptSNrAg))  
+**Kata:** 
+
+
+------------------
+## Past Events
+
 ### Wednesday Feb 21st, 2024
 Refactoring Skills: Usage First Design  
 with guest Facilitator [Amanda Hatch](https://www.linkedin.com/in/amanda-hatch-2576b476/)  
 [YouTube](https://www.youtube.com/watch?v=4xNPMbV4J4w)  
 **Kata:** This is a greenfield TDD exercise, you just need a [starter project](https://github.com/LearnWithLlew/StarterProjects/blob/main/README.md)
 
-
-------------------
-## Past Events
 
 ### Wednesday Feb 7th, 2024
 Refactoring Skills: Extract Function  
