@@ -18,7 +18,7 @@ The following will improve your experience but are not required:
 Incremental Development
 with guest Facilitator [Jay Bazuzi](https://jay.bazuzi.com/)  
 [YouTube](https://www.youtube.com/watch?v=5BftptSNrAg)  
-**Kata:** 
+**Kata:** This is a greenfield TDD exercise, you just need a [starter project](https://github.com/LearnWithLlew/StarterProjects/blob/main/README.md)
 
 
 ------------------
