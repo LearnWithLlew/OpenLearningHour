@@ -14,15 +14,19 @@ The following will improve your experience but are not required:
 
 
 ## Next
+### Wednesday March 27, 2024
+Code Smells
+[YouTube](https://www.youtube.com/watch?v=L-cN7NI-Fes)
+**Kata:** 
+
+
+------------------
+## Past Events
 ### Wednesday March 6, 2024
 Incremental Development
 with guest Facilitator [Jay Bazuzi](https://jay.bazuzi.com/)  
 [YouTube](https://www.youtube.com/watch?v=5BftptSNrAg)  
 **Kata:** This is a greenfield TDD exercise, you just need a [starter project](https://github.com/LearnWithLlew/StarterProjects/blob/main/README.md)
-
-
-------------------
-## Past Events
 
 ### Wednesday Feb 21st, 2024
 Refactoring Skills: Usage First Design  
