@@ -14,14 +14,21 @@ The following will improve your experience but are not required:
 
 
 ## Next
-### Wednesday March 27, 2024
-Code Smells
-[YouTube](https://www.youtube.com/watch?v=L-cN7NI-Fes)
+### Wednesday April 10, 2024
+Spy Test Doubles
+[YouTube](https://www.youtube.com/watch?v=OuRtBe07T9A)
+with guest Facilitator [Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/)
 **Kata:** 
 
 
 ------------------
 ## Past Events
+### Wednesday March 27, 2024
+Code Smells
+[YouTube](https://www.youtube.com/watch?v=L-cN7NI-Fes)
+**Kata:** 
+[Office Cleaning Robot](https://github.com/sammancoaching/OfficeCleaningRobot-Refactoring-Kata/tree/main)
+
 ### Wednesday March 6, 2024
 Incremental Development
 with guest Facilitator [Jay Bazuzi](https://jay.bazuzi.com/)  
