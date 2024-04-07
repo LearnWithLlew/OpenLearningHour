@@ -19,7 +19,7 @@ Spy Test Doubles
 [YouTube](https://www.youtube.com/watch?v=OuRtBe07T9A)  
 with guest Facilitator [Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/)  
 **Kata:** 
-
+[DiscountApplier](https://github.com/emilybache/DiscountApplier-TestDesign-Kata)
 
 ------------------
 ## Past Events
