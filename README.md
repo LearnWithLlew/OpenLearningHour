@@ -21,19 +21,19 @@ with guest Facilitator [Jacqueline Bilston](https://www.linkedin.com/in/jacqueli
 **Kata:** 
 [DiscountApplier](https://github.com/emilybache/DiscountApplier-TestDesign-Kata)
 
-### Wednesday April 24, 2024
-Everyday Design Improvements in OO code
-[YouTube](https://www.youtube.com/watch?v=NCEWAqEFPic)
-with guest Facilitator [Lada Kesseler](https://www.linkedin.com/in/lada-kesseler/)
+### Wednesday April 24, 2024  
+Everyday Design Improvements in OO code  
+[YouTube](https://www.youtube.com/watch?v=NCEWAqEFPic)  
+with guest Facilitator [Lada Kesseler](https://www.linkedin.com/in/lada-kesseler/)  
 **Kata:** 
-[Parrot Refactoring](https://github.com/emilybache/Parrot-Refactoring-Kata)
+[Parrot Refactoring](https://github.com/emilybache/Parrot-Refactoring-Kata)  
 
 ------------------
 ## Past Events
 ### Wednesday March 27, 2024
 Code Smells
 [YouTube](https://www.youtube.com/watch?v=L-cN7NI-Fes)  
-**Kata:**   
+**Kata:** 
 [Office Cleaning Robot](https://github.com/sammancoaching/OfficeCleaningRobot-Refactoring-Kata/tree/main)  
 
 ### Wednesday March 6, 2024
