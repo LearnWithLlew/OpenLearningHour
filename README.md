@@ -14,12 +14,6 @@ The following will improve your experience but are not required:
 
 
 ## Next
-### Wednesday April 10, 2024
-Spy Test Doubles  
-[YouTube](https://www.youtube.com/watch?v=OuRtBe07T9A)  
-with guest Facilitator [Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/)  
-**Kata:** 
-[DiscountApplier](https://github.com/emilybache/DiscountApplier-TestDesign-Kata)
 
 ### Wednesday April 24, 2024  
 Everyday Design Improvements in OO code  
@@ -30,6 +24,13 @@ with guest Facilitator [Lada Kesseler](https://www.linkedin.com/in/lada-kesseler
 
 ------------------
 ## Past Events
+### Wednesday April 10, 2024
+Spy Test Doubles  
+[YouTube](https://www.youtube.com/watch?v=OuRtBe07T9A)  
+with guest Facilitator [Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/)  
+**Kata:** 
+[DiscountApplier](https://github.com/emilybache/DiscountApplier-TestDesign-Kata)
+
 ### Wednesday March 27, 2024
 Code Smells
 [YouTube](https://www.youtube.com/watch?v=L-cN7NI-Fes)  
