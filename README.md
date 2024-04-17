@@ -26,7 +26,7 @@ with guest Facilitator [Lada Kesseler](https://www.linkedin.com/in/lada-kesseler
 
 ### Wednesday May 8, 2024  
 **Special Event**: New Learning Hour Preview   
-with guest Facilitator [Emily Bache]([https://www.linkedin.com/in/lada-kesseler/](https://www.youtube.com/@EmilyBache-tech-coach))  
+with guest Facilitator **[Emily Bache]([https://www.linkedin.com/in/lada-kesseler/](https://www.youtube.com/@EmilyBache-tech-coach))!!!**  
 
 
 ------------------
