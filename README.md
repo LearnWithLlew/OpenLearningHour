@@ -15,14 +15,15 @@ The following will improve your experience but are not required:
 
 ## Next
 
+TBD
+
+------------------
+## Past Events
 
 ### Wednesday May 8, 2024  
 **Special Event**: New Learning Hour Preview   
 with guest Facilitator **[Emily Bache]([https://www.linkedin.com/in/lada-kesseler/](https://www.youtube.com/@EmilyBache-tech-coach))!!!**  
 
-
-------------------
-## Past Events
 
 ### Wednesday April 24, 2024  
 Everyday Design Improvements in OO code  
@@ -30,8 +31,6 @@ Everyday Design Improvements in OO code
 with guest Facilitator [Lada Kesseler](https://www.linkedin.com/in/lada-kesseler/)  
 **Kata:** 
 [Parrot Refactoring](https://github.com/emilybache/Parrot-Refactoring-Kata)  
-
-
 
 
 ### Wednesday April 10, 2024
