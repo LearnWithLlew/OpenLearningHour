@@ -16,13 +16,16 @@ The following will improve your experience but are not required:
 ## Next
 
 
-### Wednesday May 8, 2024  
-**Special Event**: New Learning Hour Preview   
-with guest Facilitator **[Emily Bache]([https://www.linkedin.com/in/lada-kesseler/](https://www.youtube.com/@EmilyBache-tech-coach))!!!**  
+### Wednesday May 22, 2024  
+[Incremental Coding for Continuous Delivery](https://www.youtube.com/watch?v=DIB7DVvNfnA)  
 
 
 ------------------
 ## Past Events
+
+### Wednesday May 8, 2024  
+**Special Event**: New Learning Hour Preview   
+with guest Facilitator **[Emily Bache]([https://www.linkedin.com/in/lada-kesseler/](https://www.youtube.com/@EmilyBache-tech-coach))!!!**  
 
 ### Wednesday April 24, 2024  
 Everyday Design Improvements in OO code  
